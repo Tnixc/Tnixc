@@ -1,4 +1,4 @@
-I'm a 15yr old highschool student. `🇨🇦🇭🇰` ✨ https://tnixc.space ✨
+I'm a 15yr old highschool student. `🇨🇦 🇭🇰` ✨ https://tnixc.space ✨
 
 ~ I'm interested in frontend development and UI/UX.
 
