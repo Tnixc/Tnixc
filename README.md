@@ -1,5 +1,7 @@
 I'm a 15yr old highschool student. `🇨🇦 🇭🇰` ✨ https://tnixc.space ✨ @tnixc on discord
 
+English/中文 ok
+
 ~ I'm interested in frontend development, open source, and UI/UX.
 
 ~ Looking into javascript frameworks and how they work(a lot to be done here)
