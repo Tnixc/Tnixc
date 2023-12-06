@@ -2,13 +2,10 @@ I'm a 15yr old highschool student. `🇨🇦 🇭🇰` ✨ https://tnixc.space �
 
 English/中文 ok
 
-~ I'm interested in frontend development, open source, and UI/UX.
-
-~ Looking into javascript frameworks and how they work(a lot to be done here)
-
-~ Also using Java for some other stuff(but I'm really bad at it)
-
-~ I'm curious about a lot of things, and a fan of [catppuccin](https://github.com/catppuccin)
+- I'm interested in frontend development, open source, and UI/UX.
+- Mainly work with typescript and frontend adjacent stuff.
+- Also using Java for some other stuff(but I'm really bad at it)
+- I'm curious about a lot of things, and a fan of [catppuccin](https://github.com/catppuccin)
 
 ### Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,5 +36,9 @@ English/中文 ok
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+<img src="https://github-readme-stats-tnixc.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true">
+
+<img src="https://github-readme-stats-p36dqm204-tnixc.vercel.app/api/top-langs/?username=Tnixc&layout=compact&exclude_repo=github-readme-stats&hide=html&theme=rose_pine&hide_border=true">
 
 
