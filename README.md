@@ -37,3 +37,6 @@ English/中文 ok
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
+![profile langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&layout=compact&hide=html&theme=rose_pine&hide_border=true) ![profile card](https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false)
+
+
