@@ -4,7 +4,7 @@ English/中文 ok
 
 - I'm interested in frontend development, open source, and UI/UX.
 - Mainly work with typescript and frontend adjacent stuff.
-- Also using Java for some other stuff(but I'm really bad at it)
+- Also using Java for some other stuff(but I'm really bad at it), and tentatively learning rust.
 - I'm curious about a lot of things, and a fan of [catppuccin](https://github.com/catppuccin)
 
 ### Languages:
