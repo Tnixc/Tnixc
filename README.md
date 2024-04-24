@@ -14,10 +14,9 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 ### Stuff I somewhat know(always learning):
 
 ```rust
-Languages → "Typescript/Javascript, Python, HTML/CSS"
-Frameworks → "Vue/Nuxt, Tailwind, Astro"
-Tools → "Git, Figma"
-Learning → "Rust, Svelte, Go, SQL"
+Languages → "Typescript/Javascript, Python, HTML/CSS, Go, Rust"
+Frameworks → "Vue/Nuxt, Tailwind, Astro, Svelte"
+Tools → "Git, Figma, Blender"
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&layout=compact&hide=html&theme=rose_pine&hide_border=true" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false" height="160" />
