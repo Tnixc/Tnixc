@@ -1,9 +1,13 @@
-I'm a 15yr old highschool student. `🇨🇦 🇭🇰` ✨ https://tnixc.space ✨ @tnixc on discord
+I'm a 15yr old highschool student. `🇨🇦 🇭🇰` @tnixc on discord
 
-English/中文 ok
+I have a website at https://tnixc.space. I write blog posts there sometimes.
 
-- I'm interested in frontend development, open source, and UI/UX.
-- Mainly work with typescript and frontend adjacent stuff, but now more rust and cli tools.
+**Latest post** → [A somewhat correct Fourier Transformation explaination
+](https://tnixc.space/blog/2)
+
+
+- I'm interested in frontend development, open source, and UI/UX, math. I find a lot of stuff interesting.
+- Mainly working with typescript and frontend adjacent stuff, but now more with rust and cli tools.
 - Also using Java for some other stuff(but I'm really bad at it).
 
 ### Stuff I somewhat know(always learning):
