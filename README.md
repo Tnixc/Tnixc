@@ -19,6 +19,6 @@ Tools → "Git, Figma"
 Learning → "Rust, Svelte, Go, SQL"
 ```
 
-![profile langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&layout=compact&hide=html&theme=rose_pine&hide_border=true) ![profile card](https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&layout=compact&hide=html&theme=rose_pine&hide_border=true" height="150" /><img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false" height="150" />
 
 
