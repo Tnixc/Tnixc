@@ -15,6 +15,5 @@ Frameworks → "Vue/Nuxt, Tailwind, Astro, Svelte"
 Tools → "Git, Figma, Blender"
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&layout=compact&hide=html&theme=rose_pine&hide_border=true" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false" height="160" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
 
