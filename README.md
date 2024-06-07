@@ -10,10 +10,12 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 \ce{$\unicode[auto; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://github.com/Tnixc/Tnixc/assets/85466117/54211a07-890a-4f18-8362-0303dd50e9f0'); filter: blur(10px)]{x0000}$}
 ```
 ### Stuff I somewhat know(always learning):
-```rust
-Languages → "Typescript/Javascript, Python, HTML/CSS, Go, Rust"
-Frameworks → "Vue/Nuxt, Tailwind, Astro, Svelte"
-Tools → "Git, Figma, Blender"
+```Json
+{
+  "Languages": ["Typescript/Javascript", "Python", "HTML/CSS", "Go", "Rust"],
+  "Frameworks": ["Vue/Nuxt", "Tailwind", "Astro", "Svelte"],
+  "Tools": ["Git", "Figma", "Blender"]
+}
 ```
 ```math
 \ce{$\unicode[auto; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: linear-gradient(0deg, #F6C278, #9DCED7);]{x0000}$}
