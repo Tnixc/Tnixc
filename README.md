@@ -17,3 +17,5 @@ Tools → "Git, Figma, Blender"
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
 
+```math
+\ce{$\unicode[auto; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: linear-gradient(0deg, #F6C278, #9DCED7);]{x0000}$}
