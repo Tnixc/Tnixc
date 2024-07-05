@@ -12,7 +12,7 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 {
   "Languages": ["Typescript/Javascript", "Python", "HTML/CSS", "Go", "Rust"],
   "Frameworks": ["Vue/Nuxt", "Tailwind", "Astro", "Svelte"],
-  "Tools": ["Git", "Figma", "Blender"]
+  "Tools": ["Git", "Figma", "Blender", "Nix", "Neovim", "Zed"]
 }
 ```
 
