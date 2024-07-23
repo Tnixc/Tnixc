@@ -10,7 +10,7 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 ### Stuff I somewhat know(always learning):
 ```json
 {
-  "Languages": ["Typescript/Javascript", "Python", "HTML/CSS", "Go", "Rust"],
+  "Languages": ["Typescript/Javascript", "Python", "HTML/CSS", "Rust", "Zig?"],
   "Frameworks": ["Vue/Nuxt", "Tailwind", "Astro", "Svelte"],
   "Tools": ["Git", "Figma", "Blender", "Nix", "Neovim", "Zed"]
 }
