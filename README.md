@@ -4,11 +4,11 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 
 Currently working mostly with rust, building clis. 
 
-Also doing web stuff with Vue/Nuxt, Svelte, Astro, tailwind, etc.
+Also doing web stuff with Vue/Nuxt, Svelte, Astro, tailwind, etc. I guess I can work in python and JS/TS too.
 
 ---
 
-want to mess with: Go, Zig, more math stuff.
+want to mess with: Go, Zig, Nix, more math stuff.
 
 ---
 
