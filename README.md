@@ -3,8 +3,9 @@ I'm a 15yr old highschool student. | `🇨🇦 <- 🇭🇰`  | @tnixc on discord
 I have a website at https://tnixc.space. I write blog posts there sometimes.
 ```sh
 |> Currently working mostly with rust, building clis. 
-|> Also doing web stuff with Vue/Nuxt, Svelte, Astro, tailwind, etc. Ok with python and JS/TS too.
-|> want to mess with: Go, Zig, Nix, more math stuff.
+|> Also doing web stuff with Vue/Nuxt, Svelte, Astro, tailwind, etc.
+   Ok with python and JS/TS too.
+|> Want to mess with: Go, Zig, Nix, more math stuff.
 ```
 ---
 
