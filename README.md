@@ -21,4 +21,4 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnixc&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
