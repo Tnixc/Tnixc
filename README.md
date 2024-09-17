@@ -4,7 +4,7 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 ```sh
 |> Currently working mostly with rust, building clis. 
 |> Also doing web stuff with Vue/Nuxt, Svelte, Astro, tailwind, etc.
-   Ok with python and JS/TS too.
+   Ok with python and JS/TS too. + building swift mac apps.
 |> Want to mess with: Go, Zig, Nix, more math stuff.
 ```
 
