@@ -1,4 +1,4 @@
-I'm a 15yr old highschool student. | `🇨🇦 <- 🇭🇰`  | @tnixc on discord
+I'm a 16yr old highschool student. | `🇨🇦 <- 🇭🇰`  | @tnixc on discord
 
 I have a website at https://tnixc.space. I write blog posts there sometimes.
 ```sh
