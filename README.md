@@ -5,10 +5,11 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 |> Currently working mostly with rust, building clis. 
 |> Also doing web stuff with Vue/Nuxt, Svelte, Astro, tailwind, etc.
    Ok with python and JS/TS too. + building swift mac apps.
-|> Want to mess with: Go, Zig, Nix, more math stuff.
+|> Want to mess with: C, Go, Zig, Nix, more math stuff.
 ```
 
 ## Projects
+- [cazal](https://github.com/tnixc/cazal) - Tiny stack based interpreted programming language in C
 - [simple](https://github.com/tnixc/simple) - SSG with components in rust
 - [nix-config](https://github.com/Tnixc/nix-config) - My nix-darwin configs
 - [edo](https://github.com/Tnixc/edo) - The colorscheme I use and maintain
