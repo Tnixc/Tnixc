@@ -1,4 +1,4 @@
-I'm a 16yr old highschool student. | `🇨🇦 <- 🇭🇰`  | @tnixc on discord
+I'm a 17yr old undergrad student at the University of Waterloo, studying math. | `🇨🇦 <- 🇭🇰`  | @tnixc on discord
 
 I have a website at https://tnixc.space. I write blog posts there sometimes.
 ```sh
