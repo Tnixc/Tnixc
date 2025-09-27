@@ -9,12 +9,13 @@ I have a website at https://tnixc.space. I write blog posts there sometimes.
 ```
 
 ## Projects
+- [Volette](https://github.com/Tnixc/volette) - WIP expression oriented programming language and compiler.
 - [cazal](https://github.com/tnixc/cazal) - Tiny stack based interpreted programming language in C
 - [simple](https://github.com/tnixc/simple) - SSG with components in rust
 - [nix-config](https://github.com/Tnixc/nix-config) - My nix-darwin configs
 - [edo](https://github.com/Tnixc/edo) - The colorscheme I use and maintain
 - [replacer](https://github.com/Tnixc/replacer) - rust cli to replace text from a mapping
-- [lightscrape-rs](https://github.com/Tnixc/lightscrape-rs) - cli to download webnovels
+
 - ### **Web apps**
   - [Elemental](https://elemental-tnixc.vercel.app/) helper for basic stoichometry
   - [tmTheme2css](https://github.com/Tnixc/tmTheme2css) convert .tmTheme to css for syntax highlighting with syntect
