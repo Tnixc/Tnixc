@@ -8,6 +8,8 @@ I have a website at https://enochlau.com. I write blog posts there sometimes.
 
 ## cool stuff i made
 - [Volette](https://github.com/Tnixc/volette) - WIP expression oriented programming language and compiler.
+
+    ^^^ coolest thing
 - [simple](https://github.com/tnixc/simple) - SSG with components in rust
 - [replacer](https://github.com/Tnixc/replacer) - rust cli to replace text, recursively, from a mapping. <- Actually useful
 - [Collect](https://github.com/Tnixc/collect) - macOS app for organizing and managing PDF collections, with tags. SwiftUI
@@ -21,10 +23,3 @@ I have a website at https://enochlau.com. I write blog posts there sometimes.
 - [edo](https://github.com/Tnixc/edo) - The colorscheme I created and use, w/ variants.
 - [Elemental](https://elemental-tnixc.vercel.app/) - helper for basic stoichometry
 - [tmTheme2css](https://github.com/Tnixc/tmTheme2css) - convert .tmTheme to css for syntax highlighting with syntect
-
-
-
-`¯\_(ツ)_/¯`
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tnixc&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
