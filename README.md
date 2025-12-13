@@ -1,6 +1,6 @@
 I'm a 17yr old undergrad student at the **University of Waterloo**, studying math.
 
-I now mostly work with **Rust**. I love **compilers**, developer tooling, language design, type theory, **functional programming**, performance , and systems engineering. Right now I'm working on [**Volette**](https://github.com/Tnixc/volette), my language and compiler.
+I now mostly work with **Rust**. I love **compilers**, developer tooling, language design, type theory, **functional programming**, performance, and systems engineering. Right now I'm working on [**Volette**](https://github.com/Tnixc/volette), my language and compiler.
 
 I also work with `OCaml`, `C`, `C++`, `Nix`, `Go`, and `TypeScript`.
 
